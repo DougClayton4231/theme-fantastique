@@ -1,0 +1,32 @@
+{
+    "name": "theme-fantastique",
+    "displayName": "Fantastique",
+    "description": "A colorful coding theme.",
+    "author": {
+        "name": "Doug Clayton",
+        "email": "doug.clayton@outlook.com",
+        "url": "https://dougclayton@weebly.com"
+    },
+    "publisher": "Doug Clayton",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DougClayton4231/theme-fantastique.git"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fantastique",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fantastique Dark-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png"
+}
