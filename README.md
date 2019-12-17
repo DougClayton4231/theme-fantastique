@@ -1,9 +1,15 @@
 ## Description
-This is a colorful theme, specifically crafted for the D language (dlang). 
+This is a colorful theme I made for the D language, but is compatible with other languages as well. 
+Please feel free to reach out if your language is not supported/has poor support! 
 
 ## Screenshots
-![screenshot](/screenshots/screenshot0.png)
-![screenshot](/screenshots/screenshot1.png)
-![screenshot](/screenshots/screenshot2.png)
+D
+![screenshot](screenshots/screenshot_d.png)
+C
+![screenshot](screenshots/screenshot_c.png)
+C++
+![screenshot](screenshots/screenshot_cpp.png)
+C# 
+![screenshot](screenshots/screenshot_cs.png)
 
-**Enjoy!**
+Enjoy!
