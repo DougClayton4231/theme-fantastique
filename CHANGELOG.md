@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.4] - 2019-12-19
+- Made all of the colors (except comments) WCAG 2.0 AAA compliant.
+- Added theme with darker background for increased contrast.
+
 ## [0.0.3] - 2019-12-18
 - Improved the contrast ratio further and changed some colors.
 - New Icon.

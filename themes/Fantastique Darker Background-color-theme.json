@@ -615,8 +615,8 @@
 		}
 	],
 	"colors": {
-		"editor.background": "#252525",
+		"editor.background": "#171717",
 		"editor.foreground": "#b3b3b3"
 	},
-	"name": "Fantastique"
+	"name": "Fantastique (Darker Background)"
 }

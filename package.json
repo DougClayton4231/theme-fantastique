@@ -12,7 +12,7 @@
         "type": "git",
         "url": "https://github.com/DougClayton4231/theme-fantastique.git"
     },
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.40.0"
     },
@@ -25,6 +25,11 @@
                 "label": "Fantastique",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Fantastique Dark-color-theme.json"
+            },
+            {
+                "label": "Fantastique (Darker Background)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fantastique Darker Background-color-theme.json"
             }
         ]
     },

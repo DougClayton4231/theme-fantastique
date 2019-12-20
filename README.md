@@ -1,5 +1,6 @@
 # Description
-This is a colorful dark theme I made for the **D Language (dlang)**, but is compatible with other languages as well. 
+This is a colorful dark theme I made for the **D Language (dlang)**.
+It is compatible with other languages (C, C++, C# Javascript\Typescript, Python, etc.) as well. 
 Please feel free to reach out if your language is not supported/has poor support!
 
 # Screenshots
