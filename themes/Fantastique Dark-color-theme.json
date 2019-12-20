@@ -352,7 +352,7 @@
 				"foreground": "#00C3C3"
 			}
 		},
-				{
+		{
 			"scope": "storage.modifier.visibility",
 			"settings": {
 				"foreground": "#f9bf3b"
@@ -463,7 +463,7 @@
 				"foreground": "#9cdcfe"
 			}
 		},
-				{
+		{
 			"scope": [
 				"support.constant.attribute",
 				"punctuation.definition.keyword"
@@ -616,7 +616,8 @@
 	],
 	"colors": {
 		"editor.background": "#252525",
-		"editor.foreground": "#b3b3b3"
+		"editor.foreground": "#b3b3b3",
+		"editor.lineHighlightBackground": "#303030"
 	},
 	"name": "Fantastique"
 }
