@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.6] - 2019-12-23
+- Updated the struct keyword color.
+
 ## [0.0.5] - 2019-12-19
 - Fixed line highlight background color.
 
