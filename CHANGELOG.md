@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.7] - 2020-03-12
+- Lots of bug fixes for C++, C and Python.
+
 ## [0.0.6] - 2019-12-23
 - Updated the struct keyword color.
 
