@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.8] - 2020-05-01
+- Bug fixes.
+- Updates to support the code-d extension.
+
 ## [0.0.7] - 2020-03-12
 - Lots of bug fixes for C++, C and Python.
 
